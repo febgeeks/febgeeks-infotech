@@ -18,7 +18,7 @@ const Hero = () => {
                 Web & Mobile App Development 
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                We call ourselves tech geeks, and we're dedicated to excellence, perfection, innovation, and client satisfaction.
+                We call ourselves tech geeks, and we&apos;re dedicated to excellence, perfection, innovation, and client satisfaction.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   {/* <Link

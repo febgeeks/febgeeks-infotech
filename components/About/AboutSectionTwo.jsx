@@ -24,7 +24,7 @@ const AboutSectionTwo = () => {
                   Bug free code
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                It's not always easy to achieve, but writing bug-free code is a great feeling. When you succeed, it's a real accomplishment that can make you proud.
+                It&apos;s not always easy to achieve, but writing bug-free code is a great feeling. When you succeed, it&apos;s a real accomplishment that can make you proud.
                 </p>
               </div>
               <div className="mb-9">
