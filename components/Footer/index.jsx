@@ -15,14 +15,14 @@ const Footer = () => {
               
                 <Link href="/" className="mb-8 inline-block">
                   <Image
-                    src="/images/logo/namelogo2.png"
+                    src="/images/logo/namerecovered2.png"
                     alt="logo"
                     className="w-full dark:hidden"
                     width={140}
                     height={30}
                   />
                   <Image
-                    src="/images/logo/namelogo.png"
+                    src="/images/logo/namerecovered.png"
                     alt="logo"
                     className="hidden w-full dark:block"
                     width={140}
