@@ -44,6 +44,7 @@ const Footer = () => {
                   <a
                     href="https://instagram.com/febgeeks?igshid=YmMyMTA2M2Y="
                     target="_blank"
+                    rel="noreferrer"
                     aria-label="social-link"
                     className="mr-6 text-[#CED3F6] hover:text-primary"
                   >
@@ -52,6 +53,7 @@ const Footer = () => {
                   <a
                     href="https://www.youtube.com/@febgeeksinfotech"
                     target="_blank"
+                    rel="noreferrer"
                     aria-label="social-link"
                     className="mr-6 text-[#CED3F6] hover:text-primary"
                   >
@@ -68,6 +70,7 @@ const Footer = () => {
                     href="https://www.linkedin.com/company/febgeeks"
                     aria-label="social-link"
                     target="_blank"
+                    rel="noreferrer"
                     className="mr-6 text-[#CED3F6] hover:text-primary"
                   >
                     <svg
