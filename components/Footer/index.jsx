@@ -43,6 +43,7 @@ const Footer = () => {
                 <div className="flex items-center">
                   <a
                     href="https://instagram.com/febgeeks?igshid=YmMyMTA2M2Y="
+                    target="_blank"
                     aria-label="social-link"
                     className="mr-6 text-[#CED3F6] hover:text-primary"
                   >
@@ -50,6 +51,7 @@ const Footer = () => {
                   </a>
                   <a
                     href="https://www.youtube.com/@febgeeksinfotech"
+                    target="_blank"
                     aria-label="social-link"
                     className="mr-6 text-[#CED3F6] hover:text-primary"
                   >
@@ -65,6 +67,7 @@ const Footer = () => {
                   <a
                     href="https://www.linkedin.com/company/febgeeks"
                     aria-label="social-link"
+                    target="_blank"
                     className="mr-6 text-[#CED3F6] hover:text-primary"
                   >
                     <svg

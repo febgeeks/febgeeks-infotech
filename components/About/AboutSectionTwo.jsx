@@ -21,7 +21,7 @@ const AboutSectionTwo = () => {
             <div className="wow fadeInUp max-w-[470px]" data-wow-delay=".2s">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Bug free code
+                  Bug Free Code
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                 It&apos;s not always easy to achieve, but writing bug-free code is a great feeling. When you succeed, it&apos;s a real accomplishment that can make you proud.
@@ -29,7 +29,7 @@ const AboutSectionTwo = () => {
               </div>
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Premier support
+                  Premier Support
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                 FebGeeks Premier Support Advanced will provide best practices, advice and guidance regarding the products under the Premier Support agreement.
