@@ -72,7 +72,7 @@ const featuresData = [
     ),
     title: "Fully Customizable",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "At our fully customizable web site services, we strive to provide you with a website that not only looks great, but also performs well and meets your business needs.",
   },
   {
     id: 1,
@@ -87,7 +87,7 @@ const featuresData = [
     ),
     title: "Free and Open-Source",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "We believe in providing high-quality software solutions that are both free and open-source, allowing for transparency and community collaboration.",
   },
 ];
 export default featuresData;
