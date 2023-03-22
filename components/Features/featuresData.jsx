@@ -12,8 +12,8 @@ const featuresData = [
     ),
     title: "Shopify Experts",
     paragraph:
-      "We are Shopify Experts, we provide huge range of services, including website setup,mange, ther creation and customization,app integrations, SEO optimization, marketing strategies and ongoing maintaenace and support.",
-  },
+    "We are Shopify Experts, we provide a huge range of services, including website setup,manage, their creation and customization, app integrations, SEO optimization, marketing strategies, and ongoing maintenance and support.",
+    },
   {
     id: 1,
     icon: (
@@ -26,8 +26,7 @@ const featuresData = [
       </svg>
     ),
     title: "High-Quality Design",
-    paragraph:
-      "We offer high quality design services for a variety of clinets across industries. With our experienced developers, we are able to produce high-quality and professional designs.",
+    paragraph:"We offer high-quality design services for a variety of clients across industries. With our experienced developers, we are able to produce high-quality and professional designs.",
   },
   {
     id: 1,
@@ -42,7 +41,7 @@ const featuresData = [
     ),
     title: "Web Development",
     paragraph:
-      "It is our goal to ensure the highest level of quality and performance for our clients through the use of a variety of technology including Node, React, PHP, Laravel, and Wordpress.",
+      "It is our goal to ensure the highest level of quality and performance for our clients through the use of a variety of technology including Node, React, PHP, Laravel, and WordPress.",
   },
   {
     id: 1,
@@ -57,7 +56,7 @@ const featuresData = [
     ),
     title: "Various Technologies",
     paragraph:
-      "We provide various kind of technologies for web site devlopments. Our aim is to provide you with the best technology that will help you grow your business. We have a wide range of products that can help you with your web development needs.",
+      "We provide various kinds of technologies for website developments. Our aim is to provide you with the best technology that will help you grow your business. We have a wide range of products that can help you with your web development needs.",
   },
   {
     id: 1,
@@ -72,7 +71,7 @@ const featuresData = [
     ),
     title: "Fully Customizable",
     paragraph:
-      "At our fully customizable web site services, we strive to provide you with a website that not only looks great, but also performs well and meets your business needs.",
+      "With our fully customizable website services, we strive to provide you with a website that not only looks great but also performs well and meets your business needs.",
   },
   {
     id: 1,
